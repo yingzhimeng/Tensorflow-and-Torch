@@ -1,0 +1,17 @@
+先说一下环境 ：
+
+
+
+python:mac下自带Python 2.7.10
+
+1.先升级了pip安装工具：sudo python -m pip install --upgrade --force pip
+
+2.安装setuptools 工具：sudo pip install setuptools==33.1.1
+
+3.安装 Python-dateutil:sudo pip install python-dateutil==2.2
+
+4.安装six:sudo pip install --ignore-installed six
+
+5.安装jupyter：sudo install jupyter
+
+启动命令：直接在终端输入jupyter notebook
